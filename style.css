@@ -1,0 +1,29 @@
+.heading {
+	background-color: DarkSlateGray;
+	color: white;
+	padding: 10px;
+}
+
+.schemebuttons {
+	color: Black;
+	padding: 5px;
+	background-color: #8c8c8c;
+	padding: 10px;
+}
+
+.wrapper {
+	text-align: center;
+}
+
+body {
+	background-color: DarkSalmon; 
+	color: DarkSlateGray;
+}
+
+img {
+	width: 15%;
+}
+
+ul {
+	list-style-type: circle;
+}
