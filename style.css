@@ -4,9 +4,9 @@
 	padding: 10px;
 }
 
+/*
 .schemebuttons {
 	color: Black;
-	/* why 2 paddings? */
 	padding: 5px;
 	background-color: #8c8c8c;
 	padding: 10px;
@@ -15,6 +15,7 @@
 .wrapper {
 	text-align: center;
 }
+*/
 
 .footer {
 	position: absolute;
@@ -23,6 +24,7 @@
 	background-color: Black;
 }
 
+/*
 body {
 	background-color: DarkSalmon; 
 	color: DarkSlateGray;
@@ -35,3 +37,4 @@ img {
 ul {
 	list-style-type: circle;
 }
+*/
