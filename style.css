@@ -6,6 +6,7 @@
 
 .schemebuttons {
 	color: Black;
+	/* why 2 paddings? */
 	padding: 5px;
 	background-color: #8c8c8c;
 	padding: 10px;
@@ -19,7 +20,7 @@
 	position: absolute;
 	bottom: 0;
 	width: 100%;
-	background: Black;
+	background-color: Black;
 }
 
 body {
